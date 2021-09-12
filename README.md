@@ -98,8 +98,6 @@ orthonyxPaupuaTari.search(query, function (self) {
 - qualitylt: [string] quality less than
 - area: [string]
 
-```
-
 ## Get sounds feature
 
 the main.js file handles most of the fetching
@@ -111,6 +109,9 @@ and a list of urls!
 then run node getsounds.js to fetch the mp3 files from the list of urls (you will have to update the loop for this, updates coming soon)
 
 ** you must have the directories created before running or it will fail - create a json, url and sounds directory in the root! **
+
+```
+
 
 ## Reference
 ####[xeno-canto.org](http://xeno-canto.org/)
