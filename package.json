@@ -34,9 +34,18 @@
     "grunt": "~0.4.1"
   },
   "dependencies": {
+    "node-fetch": "^3.0.0",
     "request": "~2.83.0"
   },
-  "directories" : ["lib", "test"],
-  "keywords": ["bird","sound","database","webservice","api",
-	  "science", "biology", "zoology", "bioinformatics"]
+  "keywords": [
+    "bird",
+    "sound",
+    "database",
+    "webservice",
+    "api",
+    "science",
+    "biology",
+    "zoology",
+    "bioinformatics"
+  ]
 }
